@@ -1,9 +1,10 @@
 /* Add styling for your page here */
 
 .App {
-
+ padding: 20px;
+ text-align: center;
 }
 
 .BakeryItem {
-  
+
 }
